@@ -1,1 +1,1 @@
-# ajngo-todos
+# django-todos
