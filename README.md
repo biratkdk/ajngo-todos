@@ -1,1 +1,2 @@
-# django-todos
+[![Python application](https://github.com/biratkdk/django-todos/actions/workflows/python-app.yml/badge.svg)](https://github.com/biratkdk/django-todos/actions/workflows/python-app.yml)
+[![codecov](https://codecov.io/gh/biratkdk/django-todos/branch/main/graph/badge.svg?token=1QyMooGbYZ)](https://codecov.io/gh/biratkdk/django-todos)
