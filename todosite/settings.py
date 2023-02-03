@@ -28,7 +28,7 @@ DEBUG = True
 
 TESTING = len(sys.argv) > 1 and sys.argv[1] == 'test'
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
 
 AUTH_USER_MODEL = "authentication.User"
 
