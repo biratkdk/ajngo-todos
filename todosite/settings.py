@@ -25,7 +25,7 @@ DATABASE_URL = "postgresql://postgres:v81NZ4YsdknUDoQ4FYA8@containers-us-west-31
 SECRET_KEY =os.environ.get('SECRET_KEY',)
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 TESTING = len(sys.argv) > 1 and sys.argv[1] == 'test'
 
